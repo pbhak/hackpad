@@ -7411,7 +7411,7 @@
 		(uuid "871e4c4b-8164-424e-aeb3-7a87c41c8200")
 	)
 	(gr_text "XIAO HERE\n"
-		(at 138.4 34.3 0)
+		(at 153.162 34.925 0)
 		(layer "B.SilkS")
 		(uuid "929cf990-5ca3-43fb-986e-387996b6d026")
 		(effects
