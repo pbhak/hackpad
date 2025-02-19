@@ -1,5 +1,5 @@
 # Parneel's Hackpad
-My Hackpad, designed for IDE functionality and general-purpose stuff
+My Hackpad, designed for IDE functionality and general-purpose stuff \
 Designed for [Hackpad](https://hackpad.hackclub.com)
 
 ## Screenshots
